@@ -1,4 +1,4 @@
-# 심리상담 챗봇
+# 심리상담 챗봇 **PsyBot**
 
 심리상담 정신건강 상담 챗봇. AI chatbot for psychology consultation.
 
