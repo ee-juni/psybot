@@ -19,3 +19,9 @@ SentenceBERT [jhgan/ko-sroberta-multitask](https://huggingface.co/jhgan/ko-srobe
 - pandas
 - sentence-transformers
 - scikit-learn
+
+## Comments
+
+This project was initially created by [Brad](https://github.com/kairess) for his YouTube channel, but [J.Lee](https://github.com/ee-juni) took an interest in it and cloned the repository.
+J.Lee added additional comments to the code whilst watching [Brad's video](https://www.youtube.com/watch?v=VVArHrsxrYU), and made some modifications to overcome minor errors.
+J.Lee plans to find ways to either improve the model or the UI, or even use this project to practice deploying web apps.
